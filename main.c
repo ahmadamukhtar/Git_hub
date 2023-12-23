@@ -7,7 +7,7 @@ int main()
     cout << "1st commit done ";
     cout << "1st commit done ";
     cout << "1st commit done ";
-
+       it is work for the second brach name mukhtar are you a=ready 
                  s
     return 0;
 }
